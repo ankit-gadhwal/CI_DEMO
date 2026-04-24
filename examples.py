@@ -1,7 +1,9 @@
 import math
 
+
+
 def greet(name):
-    print(f"Hello {name}")
+    print(f"name is {name}")
 
 
 
@@ -11,7 +13,5 @@ def greet(name):
 def add(a,b):
     return a+b
 
-
-
-greet("Ankit")
+greet("Ankit Gadhwal")
 print(add(4,5))
