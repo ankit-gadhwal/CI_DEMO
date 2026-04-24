@@ -12,7 +12,7 @@ def mul(a, b):
 
 greet("Ankit Gadhwal")
 
-if __name__  == "__main__":
+if __name__ == "__main__":
 
     print(add(4, 5))
     print(mul(5, 5))
